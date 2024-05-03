@@ -4,6 +4,7 @@ It uses machine learning techniques, specifically RandomForestClassifier, to cla
 
 ## Usage  
 1. Run the Streamlit app:
+   
    ![image](https://github.com/shahtisha/Sentiment-Analysis-of-indian-lang/assets/105882913/8626b784-47b5-4225-9e0a-01364c981380)
 2. Select the desired language from the sidebar.
 3. Enter text in the provided text area.
