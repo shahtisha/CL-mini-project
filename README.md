@@ -12,7 +12,7 @@ It uses machine learning techniques, specifically RandomForestClassifier, to cla
    
 ## Datasets  
 The dataset used on this project are:  
-[hindi dataset]()  
+[hindi dataset](https://github.com/shahtisha/Sentiment-Analysis-of-indian-lang/blob/main/Datasets/hindi_data.csv)  
 [marathi dataset]()  
 [gujarati dataset]()  
 [punjabi dataset]()
